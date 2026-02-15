@@ -1,7 +1,4 @@
-from os import remove
 from random import randint
-from socket import create_server
-
 import pygame
 from sys import exit
 from pygame.locals import *
